@@ -1,0 +1,3 @@
+[console_scripts]
+labelImg = labelImg.labelImg:main
+
